@@ -1,0 +1,34 @@
+[0.0268] Info: WP_Query results written to log
+[0.0005] Registered sizes: ["thumbnail","medium","medium_large","large","shop_thumbnail","shop_catalog","shop_single","small","blog-medium","blog-medium-crop","blog-large","blog-large-crop","portfolio-medium","portfolio-medium-crop","portfolio-large","portfolio-large-crop","full"]
+[0.0006] Meta indexed so far: 1 / 1638
+[0.0019] Sample meta:
+{"width":700,"height":450,"file":"2016\/11\/goc-canh-phong-ngu-thong-thoang.png","sizes":{"thumbnail":{"file":"goc-canh-phong-ngu-thong-thoang-150x150.png","width":150,"height":150,"mime-type":"image\/png"},"medium":{"file":"goc-canh-phong-ngu-thong-thoang-300x193.png","width":300,"height":193,"mime-type":"image\/png"},"shop_thumbnail":{"file":"goc-canh-phong-ngu-thong-thoang-180x180.png","width":180,"height":180,"mime-type":"image\/png"},"shop_catalog":{"file":"goc-canh-phong-ngu-thong-thoang-600x450.png","width":600,"height":450,"mime-type":"image\/png"},"shop_single":{"file":"goc-canh-phong-ngu-thong-thoang-600x450.png","width":600,"height":450,"mime-type":"image\/png"},"small":{"file":"goc-canh-phong-ngu-thong-thoang-50x50.png","width":50,"height":50,"mime-type":"image\/png"},"blog-medium":{"file":"goc-canh-phong-ngu-thong-thoang-555x357.png","width":555,"height":357,"mime-type":"image\/png"},"blog-medium-crop":{"file":"goc-canh-phong-ngu-thong-thoang-555x312.png","width":555,"height":312,"mime-type":"image\/png"},"portfolio-medium":{"file":"goc-canh-phong-ngu-thong-thoang-600x386.png","width":600,"height":386,"mime-type":"image\/png"},"portfolio-medium-crop":{"file":"goc-canh-phong-ngu-thong-thoang-600x413.png","width":600,"height":413,"mime-type":"image\/png"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
+[0.0005] Meta indexed so far: 101 / 1638
+[0.0007] Meta indexed so far: 201 / 1638
+[0.0006] Meta indexed so far: 301 / 1638
+[0.0006] Meta indexed so far: 401 / 1638
+[0.0007] Meta indexed so far: 501 / 1638
+[0.0005] Meta indexed so far: 601 / 1638
+[0.0005] Meta indexed so far: 701 / 1638
+[0.0005] Meta indexed so far: 801 / 1638
+[0.0005] Meta indexed so far: 901 / 1638
+[0.0005] Meta indexed so far: 1001 / 1638
+[0.0005] Meta indexed so far: 1101 / 1638
+[0.0005] Meta indexed so far: 1201 / 1638
+[0.0012] Meta indexed so far: 1301 / 1638
+[0.0005] Meta indexed so far: 1401 / 1638
+[0.0005] Meta indexed so far: 1501 / 1638
+[0.0007] Meta indexed so far: 1601 / 1638
+[1.0427] Meta indexed so far: 1638 / 1638
+[1.4537] Info: Valid and Invalid meta results written to log
+[0.0227] Info: Loaded attachments to memory [76.25 mb]
+[1.3977] Info: 1792 Images found [77.75 mb]
+[1.4825] Info: 176 Invalid images found [77.75 mb]
+[2.2507] Info: Retrieved attachment images from DB [78.5 mb]
+[2.9122] Info: Backup meta results written to log [79.75 mb]
+[0.0019] Posts checked for used images 1/169
+[0.0008] Posts checked for used images 101/169
+[0.0474] Info: Invalid post image meta results written to log
+[0.6272] Info: Invalid script image meta results written to log
+[0.6536] Info: Invalid referenced image meta results written to log
+[0.6588] Info: Unreferenced image file results written to log
